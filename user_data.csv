@@ -1,0 +1,5 @@
+Gender,Age,Hypertension,Heart Disease,Ever Married,Work Type,Residence Type,Glucose Level,Height,Weight,Smoking Status,Prediction
+male,65,1,0,FALSE,it,rural,130,1.6,62,no,No stroke will occur
+female,20,0,1,FALSE,student,urban,150,1.6,45,no,No stroke will occur
+female,65,1,1,TRUE,house wife,urban,150,1.6,65,no,Stroke will occur
+female,50,1,1,True,house wife,urban,160.0,1.5,60.0,no,Stroke will occur
