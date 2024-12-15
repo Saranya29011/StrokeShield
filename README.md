@@ -22,8 +22,6 @@ Python is the core programming language used for the application. Ensure you hav
   pip install scikit-learn
   ```
 
----
-
 **4. Matplotlib & Seaborn (Data Visualization)**
 
 - **Installation**:
